@@ -20,7 +20,7 @@ var swiper = new Swiper(".mySwiper", {
 // #WHAT OUR CLIENTS SAY’S Slider
 
 
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".client_says_slider", {
   slidesPerView: 3,
   spaceBetween: 30,
   pagination: {
